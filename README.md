@@ -27,12 +27,12 @@ Contains all short-form answers in one markdown file:
 
 | No. | Question                                                              | Solution         |
 | --- | --------------------------------------------------------------------- | ---------------- |
-| L1  | Definition, conceptual framework, and architectural view of IoT       | [L1.md](./L1.md) |
-| L2  | Machine-to-Machine (M2M) communication and its role in IoT            | [L2.md](./L2.md) |
-| L3  | Technologies behind IoT and their significance                        | [L3.md](./L3.md) |
-| L4  | Comparison of IoT development boards (Arduino, Raspberry Pi, ESP8266) | [L4.md](./L4.md) |
-| L5  | RFID technology and its role in IoT applications                      | [L5.md](./L5.md) |
-| L6  | Types of sensors and actuators used in IoT systems                    | [L6.md](./L6.md) |
+|  1  | Definition, conceptual framework, and architectural view of IoT       | [L1.md](./L1.md) |
+|  2  | Machine-to-Machine (M2M) communication and its role in IoT            | [L2.md](./L2.md) |
+|  3  | Technologies behind IoT and their significance                        | [L3.md](./L3.md) |
+|  4  | Comparison of IoT development boards (Arduino, Raspberry Pi, ESP8266) | [L4.md](./L4.md) |
+|  5  | RFID technology and its role in IoT applications                      | [L5.md](./L5.md) |
+|  6  | Types of sensors and actuators used in IoT systems                    | [L6.md](./L6.md) |
 
 ---
 
