@@ -15,7 +15,7 @@ Click to view concise mind maps for each unit:
 
 ---
 
-## ✍️ Short Answer Questions
+## ✍️ Short Answer Questions (Unit-1 & 2)
 
 Contains all short-form answers in one markdown file:
 
@@ -23,7 +23,7 @@ Contains all short-form answers in one markdown file:
 
 ---
 
-## 📚 Long Answer Questions & Solutions
+## 📚 Long Answer Questions & Solutions (Unit 1 & 2)
 
 | No. | Question                                                              | Solution         |
 | --- | --------------------------------------------------------------------- | ---------------- |
